@@ -109,7 +109,7 @@ Follow these steps to run the Iceonfire e-commerce application locally:
 
 Upon running `init_db.php`, a default administrator account is registered securely in the database.
 *   **Username**: `admin`
-*   **Password**: `iceonfire2024`
+*   **Password**: Whatsapp - 01626231443
 
 > [!WARNING]
 > It is highly recommended to change the password or username in the SQLite database (`admins` table) before deploying the application to a production server.
